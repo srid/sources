@@ -3,6 +3,7 @@
 ## sources 1.0.4 (not yet released)
 
 (nothing yet)
+- #2 - Initialize and update git submodules when cloning a repo
 
 ## sources 1.0.3
 
